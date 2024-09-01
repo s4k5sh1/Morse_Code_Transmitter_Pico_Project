@@ -1,4 +1,4 @@
-import machine
+import machine 
 import utime
 from pico_i2c_lcd import I2cLcd
 
